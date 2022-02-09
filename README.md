@@ -15,4 +15,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MarcosCravito&show_icons=true&locale=en&layout=compact" alt="MarcosCravito" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MarcosCravitom&show_icons=true&locale=en" alt="MarcosCravito" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MarcosCravito&show_icons=true&locale=en" alt="MarcosCravito" /></p>
