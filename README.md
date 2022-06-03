@@ -1,7 +1,7 @@
 <h1 align="center">Hi I'm Marcos !</h1>
 <h3 align="center">A student developer from Brazil</h3>
 
-- ?? I’m currently learning **Dart, JavaScript**
+- ?? I’m currently learning **HTML, CSS, JavaScript, Android Studio and ReactJS !**
 
 - ?? How to reach me **imgur54@gmail.com**
 
